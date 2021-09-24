@@ -86,7 +86,7 @@ export default function Home({ postsPagination }: HomeProps): JSX.Element {
   return (
     <>
       <Head>
-        <title>Home | spacetraveling</title>
+        <title>esperafeliznoticias</title>
       </Head>
       <main className={commonStyles.container}>
         <Header />

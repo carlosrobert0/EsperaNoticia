@@ -5,7 +5,8 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <title>spacetraveling.</title>
+          <title>esperafeliznoticias</title>
+          <link rel="icon" href="/logo.png" />
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link
             rel="stylesheet"
