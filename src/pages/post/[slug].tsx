@@ -65,7 +65,7 @@ export default function Post({ post }: PostProps): JSX.Element {
   return (
     <>
       <Head>
-        <title>{`${post.data.title} | esperafeliznoticias`}</title>
+        <title>{`${post.data.title} | Esperafeliznoticias`}</title>
       </Head>
       <Header />
       <img src={post.data.banner.url} alt="banner" className={styles.banner} />
